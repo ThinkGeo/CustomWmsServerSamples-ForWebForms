@@ -7,7 +7,7 @@ This sample shows you how to add a custome Wms layer plugin to Wms server. To ru
 
 Please refer to  [Wiki](https://wiki.thinkgeo.com/wiki/map_suite_web_for_webforms) for the detail of ThinkGeo WebForms.
 
-![Screenshot](https://github.com/ThinkGeo/CustomWmsServerSamples-ForWebForms/blob/master/Screenshot.gif)
+![Screenshot](https://github.com/ThinkGeo/CustomWmsServerSamples-ForWebForms/blob/master/ScreenShot.gif)
 
 ### Requirements
 
